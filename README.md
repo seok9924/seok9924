@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=SeiHyunCHoi&fontSize=70&animation=twinkling)
-
+<h2 align="center">🪄 Sei Hyun Choi 🪄</h32>
 <p align="center">🇰🇷 🇦🇺 🇸🇬</p>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
@@ -14,7 +13,7 @@
 
 
 
-<h3 align="center">🪄 Blog 🪄</h3>
+
 
 <div align="center" style="text-align:center">
   
