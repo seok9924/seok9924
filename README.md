@@ -1,5 +1,5 @@
 <h2 align="center">🪄 Sei Hyun Choi 🪄</h32>
-<p align="center">🇰🇷 🇦🇺 🇸🇬</p>
+<p align="center">Kr Eng</p>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
