@@ -1,4 +1,5 @@
-<h2 align="center">🪄 Sei Hyun Choi 🪄</h32>
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=Sei%20Hyun%20Choi&fontSize=50&fontAlign=50&descAlign=100)
+
 <p align="center">Kr Eng</p>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
