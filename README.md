@@ -1,3 +1,5 @@
+<div align="center">
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Sei%20Hyun%20Choi&fontSize=50&fontAlign=50&animation=twinkling&text-color=black)
 
 
@@ -17,13 +19,14 @@
 
 
 
-<div align="center" style="text-align:center">
+
   
-<p>개추</p>
+
   
-</div>
-  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seok9924&langs_count=3&layout=compact)
+</br>
 
 ![SEIHYUN's GitHub stats](https://github-readme-stats.vercel.app/api?username=seok9924&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seok9924&langs_count=3&layout=compact)
 
+
+</div>
