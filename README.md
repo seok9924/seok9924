@@ -1,8 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=Sei%20Hyun%20Choi&fontSize=50&fontAlign=50&descAlign=100)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Sei%20Hyun%20Choi&fontSize=50&fontAlign=50&animation=twinkling&text-color=black)
 
-<p align="center">Kr Eng</p>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
+
+<p align="center">Kr Eng</p>
 
 <p align="center"> Techs that I've used at least once </p>
 
