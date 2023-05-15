@@ -20,6 +20,7 @@
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=seok9924)](https://solved.ac/seok9924)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle={handle}&theme=warm)
 
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seok9924&langs_count=3&layout=compact)
